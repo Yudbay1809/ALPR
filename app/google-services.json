@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124455384683",
+    "project_id": "plate-recognizer-fb672",
+    "storage_bucket": "plate-recognizer-fb672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124455384683:android:3ec9260bf828c5618da32e",
+        "android_client_info": {
+          "package_name": "com.glowingsoft.carplaterecognizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz89yysBKkrKI3A0mUlACUOStYhaqgqW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
